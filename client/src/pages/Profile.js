@@ -5,7 +5,7 @@ const Profile = () => {
     <div>
       <div className="flex-row mb-3">
         <h2 className="bg-dark text-secondary p-3 display-inline-block">
-          {/* Viewing <usernames>'s profile. */}
+          {/* Viewing <usernames>'s profile. */} test
         </h2>
       </div>
 
